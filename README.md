@@ -20,6 +20,5 @@ If you don't trust yourself (or me telling you) to enter stuff into the Terminal
 
 Load CachyOS Hello, then click on "Apps/Tweaks". Finally click on the "Install Gaming Packages" button to install all the prerequisites you need.
 
-If you would like to see more about this, you can visit the CachyOS wiki: [https://wiki.cachyos.org/configuration/gaming/](CachysOS Wiki | Gaming)
-
+If you would like to see more about this, you can visit the CachyOS wiki: [CachysOS Wiki | Gaming](https://wiki.cachyos.org/configuration/gaming/)
 
